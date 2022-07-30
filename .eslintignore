@@ -1,0 +1,7 @@
+/*.js
+/*.ts
+**/config-overrides.js
+**/*.d.ts
+**/node_modules
+**/dist
+**/internals
